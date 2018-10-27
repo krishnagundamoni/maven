@@ -1,2 +1,10 @@
 #include<stdio.h>
-
+#include<conio.h>
+clr scr();
+void main();
+{
+int a,b;
+printf("enter a,b values);
+add(a+b)
+printf("result");
+}
